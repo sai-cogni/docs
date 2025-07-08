@@ -4,22 +4,22 @@
 	"name": "Phoenix",
 	"description": "AI-powered coding assistant for VSCode",
 	"colors": {
-		"primary": "#9D4EDD",
-		"light": "#F0E6FF",
-		"dark": "#000000"
+		"primary": "#E55A2B",
+		"light": "#FFF0E6",
+		"dark": "#1F1308"
 	},
 	"logo": {
-		"light": "/assets/robot_panel_light.png",
-		"dark": "/assets/robot_panel_dark.png"
+		"light": "/assets/icon.png",
+		"dark": "/assets/icon.png"
 	},
 	"favicon": {
-		"light": "/assets/robot_panel_light.png",
-		"dark": "/assets/robot_panel_dark.png"
+		"light": "/assets/icon.png",
+		"dark": "/assets/icon.png"
 	},
 	"background": {
 		"color": {
-			"light": "#F0E6FF",
-			"dark": "#000000"
+			"light": "#FFF0E6",
+			"dark": "#1F1308"
 		},
 		"decoration": "gradient"
 	},
